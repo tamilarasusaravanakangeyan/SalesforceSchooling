@@ -6,7 +6,7 @@
 .sf/
 .sfdx/
 .localdevserver/
-
+toDeploy/
 # LWC VSCode autocomplete
 jsconfig.json
 

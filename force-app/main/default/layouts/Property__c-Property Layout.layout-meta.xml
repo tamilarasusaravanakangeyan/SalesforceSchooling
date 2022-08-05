@@ -39,6 +39,10 @@
                 <behavior>Edit</behavior>
                 <field>Current_Rate__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>NewPrice__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
