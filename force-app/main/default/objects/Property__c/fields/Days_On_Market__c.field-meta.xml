@@ -4,7 +4,7 @@
     <externalId>false</externalId>
     <formula>TODAY() - Date_Listed__c</formula>
     <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
-    <label>Days On Market</label>
+    <label>Days On Markets</label>
     <precision>18</precision>
     <required>false</required>
     <scale>0</scale>
