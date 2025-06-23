@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Value_Greater_Than_1000</fullName>
+    <active>true</active>
+    <errorConditionFormula>Price__c &lt; 0 || Price__c &gt; 1000</errorConditionFormula>
+    <errorDisplayField>Price__c</errorDisplayField>
+    <errorMessage>Price is not valid</errorMessage>
+</ValidationRule>
